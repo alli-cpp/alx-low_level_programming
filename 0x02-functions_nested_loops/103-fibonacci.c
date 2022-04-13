@@ -13,7 +13,7 @@ int main(void)
 
 	while (1)
 	{
-		subsum = fib1 + fib2;
+		fibsum = fib1 + fib2;
 		if (fibsum > 4000000)
 			break;
 
@@ -23,7 +23,7 @@ int main(void)
 		fib1 = fib2;
 		fib2 = fibsum;
 	}
-	printf("%.ef\n", tor_sum;
+	printf("%.ef\n", tot_sum);
 
 			return (0);
 			}
