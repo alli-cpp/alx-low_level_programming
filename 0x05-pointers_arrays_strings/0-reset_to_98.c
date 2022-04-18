@@ -8,7 +8,7 @@
  *
  * Return:Nothing
  */
-int reset_to_98(int *n)
+int main(int *n)
 {
 	*n = 98;
 }
