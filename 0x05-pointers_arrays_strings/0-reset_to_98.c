@@ -1,9 +1,8 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
 
 /**
- * main -  a function that takes a pointer to an int as parameter 
- *         and updates the value it points to to 98.
+ * main - check the code for Holberton School students.
  *
  * Return: Always 0.
  */
