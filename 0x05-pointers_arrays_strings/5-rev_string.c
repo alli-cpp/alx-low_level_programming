@@ -18,6 +18,8 @@ void rev_string(char *s)
 		length++;
 	}
 
+	count = length;
+
 	count_c = s;
 	end_c = s;
 
