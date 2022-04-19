@@ -6,7 +6,9 @@
  *
  * Return: void
  */
+
 void puts_half(char *str)
+
 {
 	int i, last;
 
